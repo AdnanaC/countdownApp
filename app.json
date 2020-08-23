@@ -1,0 +1,12 @@
+{
+  "name": "countdownApp",
+  "displayName": "countdownApp",
+  "expo": {
+    "name": "countdownApp",
+    "slug": "countdownApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
